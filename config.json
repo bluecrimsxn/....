@@ -1,0 +1,103 @@
+{
+  "handle": "@spshree",
+  "tagline": "I am a human after all",
+  "name": "SHREE SPSV",
+  "title": "Shree's Profile",
+  "role": "Junior Indie Backend Developer Learning frontend",
+  "avatarImg": "https://i.pinimg.com/736x/79/f9/5a/79f95a4ae5ffb26c16e5c7ab017276f3.jpg",
+  "backgroundImg": "https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif",
+  "discord": {
+    "userID": "1488556914605428988",
+    "avatarAnimated": false
+  },
+  "theme": {
+    "colors": {
+      "bg": "#f5faff",
+      "bgAlt": "#edf6fc",
+      "surface": "#fbfdff",
+      "text": "#172a3a",
+      "textMuted": "#687b8c",
+      "textAlt": "#3f5668",
+      "primary": "#69b7e8",
+      "primaryStrong": "#419bd6",
+      "accent": "#a8d9f5",
+      "secondary": "#8fc8e8",
+      "navy": "#28516d",
+      "navyDeep": "#18394d",
+      "gold": "#d4b06a",
+      "goldSoft": "#ead9ad",
+      "goldPale": "#f7efd9",
+      "border": "rgba(23, 42, 58, 0.08)"
+    },
+    "glass": {
+      "accent": "rgba(255, 255, 255, 0.42)",
+      "presenceAccent": "rgba(255, 255, 255, 0.58)",
+      "navAccent": "rgba(255, 255, 255, 0.48)",
+      "stampAccent": "rgba(255, 255, 255, 0.84)",
+      "statAccent": "rgba(255, 255, 255, 0.9)"
+    },
+    "backgroundTheme": {
+      "primary": "rgba(105, 183, 232, 0)",
+      "secondary": "rgba(207, 235, 250, 0.28)",
+      "gradient": "linear-gradient(135deg, #f5faff 0%, #e9f6ff 45%, #d9eefb 100%)",
+      "glow": "radial-gradient(circle at 20% 20%, rgba(105, 183, 232, 0.22), transparent 45%), radial-gradient(circle at 85% 80%, rgba(212, 176, 106, 0.12), transparent 40%)"
+    },
+    "typography": {
+      "display": "\"Anton\", \"Arial Narrow\", sans-serif",
+      "body": "\"Space Grotesk\", system-ui, sans-serif",
+      "mono": "\"JetBrains Mono\", monospace"
+    },
+    "radius": {
+      "lg": "28px",
+      "md": "18px",
+      "sm": "12px"
+    },
+    "shadow": {
+      "card": "0 30px 60px rgba(40, 81, 109, 0.10), 0 0 45px rgba(105, 183, 232, 0.12)",
+      "soft": "0 12px 28px rgba(40, 81, 109, 0.07), 0 0 20px rgba(105, 183, 232, 0.08)"
+    }
+  },
+  "stats": [
+    { "icon": "star", "value": "4.9", "label": "Client rating" },
+    { "icon": "bolt", "value": "120+", "label": "Deploys" },
+    { "icon": "chat", "value": "30", "label": "Happy clients" }
+  ],
+  "actions": [
+    { "key": "work", "label": "View work", "icon": "heart" },
+    { "key": "about", "label": "About", "icon": "star" },
+    { "key": "contact", "label": "Contact", "icon": "save" }
+  ],
+  "skills": [
+    { "name": "Frontend", "level": 92 },
+    { "name": "Design", "level": 85 },
+    { "name": "Motion", "level": 70 },
+    { "name": "Backend", "level": 60 }
+  ],
+  "location": {
+    "city": "Based remotely",
+    "country": "Open to relocate",
+    "tags": ["Frontend", "Design", "Motion"]
+  },
+  "work": [
+    {
+      "title": "Project 1",
+      "tag": "Tag 1",
+      "year": "2025",
+      "url": "https://google.com",
+      "icon": "https://i.pinimg.com/736x/e5/7f/f7/e57ff75df40a2fce40d93e907b27c5ab.jpg"
+    }
+  ],
+  "about": {
+    "bio": "A simple developer",
+    "facts": [
+      { "label": "Based", "value": "Remote / GMT+5:30" },
+      { "label": "Stack", "value": "Backend (Pretty much anything)" },
+      { "label": "Focus", "value": "Full Stack Application Development" },
+      { "label": "Currently", "value": "Scarlet (A simple footprinting tool)" }
+    ]
+  },
+  "contact": {
+    "email": "shreemailid@gmail.com",
+    "socials": [{ "label": "GitHub", "href": "https://github.com/ittzspsv " }]
+  }
+}
